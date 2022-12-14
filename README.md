@@ -4,12 +4,13 @@ Ces épreuves on était inspiré de l'école 42, de Harvard, des meilleurs cours
 Ainsi que beaucoup de testes techniques extrêmement intéressantes qui font travailler sur des problèmes réels.
 
 Ces épreuves font comprendre des principes, des qualités importantes avec une façon de pensée, également
-d'être capable de résoudre, par la suite, n'importe quel problème.
+ils permettent d'être capable de résoudre, par la suite, énormément de problèmes.
 Faire ces épreuves est une question de patience, de persévérance et permet de comprendre les bases de l'algorithmie.
 
-Enfin, Ces épreuves sont pensées par niveau de difficulté. C'est un baptême du feu qui commence par le niveau de la
+Enfin, Ces épreuves sont pensées par niveau de difficulté. C'est un long baptême qui commence par le niveau de la
 Terre, puis de l'Eau, ensuite de l'Air et pour finir le niveau du Feu.
-Le dernier niveau, c'est le baptême du Feu qui permet d'endurcir le mental, qui vient mettre fin aux fondations du code.
+Le dernier niveau, c'est le baptême du Feu qui permet d'endurcir le mental.
+Celui-ci vient mettre fin à ces épreuves, et permet de passer à la suite.
 
 Quel est le rôle des épreuves ?
 Ces épreuves sont des exercices qui consistent à vous demander de créer de petits programmes.
