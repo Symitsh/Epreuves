@@ -28,4 +28,4 @@ end
 
 array = ARGV
 
-puts rotate_left(array).join(' ')
+puts rotate_left(array).join(', ')
